@@ -1,6 +1,6 @@
 # GPT from Scratch
 
-A decoder-only transformer language model built from scratch in PyTorch, trained on Python source code from the CodeSearchNet dataset. Implements the GPT-2 architecture with BPE tokenization, multi-head self-attention, and W&B experiment tracking.
+A decoder-only transformer language model built from scratch in PyTorch, trained on Python source code from the CodeSearchNet dataset — ~500k real-world Python functions scraped from open-source GitHub repositories. Implements the GPT-2 architecture with BPE tokenization, multi-head self-attention, and W&B experiment tracking.
 
 ## Architecture
 
